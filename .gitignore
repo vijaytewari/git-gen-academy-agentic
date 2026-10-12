@@ -1,0 +1,7 @@
+.venv/
+.venv64/
+.python64/
+__pycache__/
+python-installer.exe
+*.log
+provider-*.txt
